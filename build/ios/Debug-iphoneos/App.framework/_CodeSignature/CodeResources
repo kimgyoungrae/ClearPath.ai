@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		4B4A/fCY7b1/BXWBHgXmyUIDyS0=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		yLR9tQ9FSMQabPU8TC5f10cT1Bg=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -23,6 +23,46 @@
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
 		8OZh5ma/zc+j4YKdDhdAwTJOu5U=
+		</data>
+		<key>flutter_assets/assets/models/detect.tflite</key>
+		<data>
+		IM2QfaMpWpVzOJEUNqbCkCS6WKg=
+		</data>
+		<key>flutter_assets/assets/models/labelmap.txt</key>
+		<data>
+		x10Getj/LeHoKPIWf+9+xbLx2io=
+		</data>
+		<key>flutter_assets/assets/models/mobilenet_v1_1.0_224.tflite</key>
+		<data>
+		2Ss/GFhommnSTackJTn53yO/vEw=
+		</data>
+		<key>flutter_assets/assets/models/mobilenet_v1_1.0_224.txt</key>
+		<data>
+		SrVxTuAQkZkM3b4r6MgA1ujv0fk=
+		</data>
+		<key>flutter_assets/assets/models/palm.tflite</key>
+		<data>
+		v16RSC2cT9pi2wIA84hbFezULhk=
+		</data>
+		<key>flutter_assets/assets/models/palm.txt</key>
+		<data>
+		liGiRKRH7HSVmPgydWD/hgleLCY=
+		</data>
+		<key>flutter_assets/assets/models/ssd_mobilenet.tflite</key>
+		<data>
+		IM2QfaMpWpVzOJEUNqbCkCS6WKg=
+		</data>
+		<key>flutter_assets/assets/models/ssd_mobilenet.txt</key>
+		<data>
+		XED2e11xNxrRvTcQitA5L4UE7FI=
+		</data>
+		<key>flutter_assets/assets/models/yolov2_tiny.tflite</key>
+		<data>
+		7bplDFO/gWIYaRiVX+58HjMqK50=
+		</data>
+		<key>flutter_assets/assets/models/yolov2_tiny.txt</key>
+		<data>
+		FwVQpC4HC0+a86K8Irtxyc8A3ok=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +74,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		LCyKwP07lkYGyfX0hX6L8eFwN2g=
+		GnFUJdBTb1iLwoNPqev2kIcrPI0=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -55,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			HRrVY0zMU7moQuiQF8fkMOt0xSV1H0SBrSdjMbnhS+8=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			pT9LuszYlCzi/ivwjAvyLIqGd2yhDXYDaHtsX4foUmw=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -77,6 +117,76 @@
 			<key>hash2</key>
 			<data>
 			LF0PhJpgiymBR0GwlkCiqc9DuaifBNoq9trG3rZm58Q=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/detect.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5LEY5eRTGUXeLmWXQsfFkPdTb40O0m0TWrz+g7R3nRM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/labelmap.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x+echV9zy7qfM9ZJ1g4WdusKl0AhpBaW0awNS39+AhE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/mobilenet_v1_1.0_224.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/azlR7F5B/oigh9ImPKvSdzneH/miK18XY0CIPN4HGU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/mobilenet_v1_1.0_224.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MQu7Ntr03sYpqDYzLZpACuiDtDXUtow4hbNaJvkKoHk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/palm.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OTnd2sU6WfawnmgE8FSI0B8pyU/7hqQymvd36yIwYqA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/palm.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GwAXBqQYvfyjU2E1XGQ7eRhXK4+bdQPzBDpuI7RdzlI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/ssd_mobilenet.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5LEY5eRTGUXeLmWXQsfFkPdTb40O0m0TWrz+g7R3nRM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/ssd_mobilenet.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ltri3lqF/dd4paiKo1UMJE/RKnrxO9CCxllo1nR91FQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/yolov2_tiny.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mVcHAucCtknwBEa2WQ2mQnN3mYks08xZUAfDvNfSz3c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/models/yolov2_tiny.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M8d3YeEkzHSRE0aGXjvBIZuHwtt9DxBuM3a/XvN4WTM=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -97,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			23WVSifaHeTVx5Vkv8rb/gd7lPYqQKLS2sXgayXeZUs=
+			deJ0KMgqPFGAgSASIq92AADXZ2VaSwR0ctWY03KILLk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

@@ -32,7 +32,7 @@ class DetectionController extends GetxController {
     final cameras = await availableCameras();
     cameraController = CameraController(
       cameras[0], 
-      ResolutionPreset.medium,
+      ResolutionPreset.max,
     );
     await cameraController.initialize();
     isInitialized.value = true;
@@ -49,7 +49,7 @@ class DetectionController extends GetxController {
       var recognitions = await Tflite.detectObjectOnImage(
         path: image.path, numResultsPerClass: 1);
       for (var recognition in recognitions!) {
-        result.value += "${recognition['detectedClass']} - ${recognition['confidenceInClass']}\n";
+        result.value += "${recognition["detectedClass"]} - ${recognition["confidenceInClass"]} \n";
       }
     } catch (e) {
     } finally {
