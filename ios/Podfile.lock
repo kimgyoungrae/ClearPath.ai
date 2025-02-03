@@ -1,0 +1,42 @@
+PODS:
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_tflite (1.1.2):
+    - Flutter
+    - TensorFlowLiteC
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - TensorFlowLiteC (2.2.0)
+
+DEPENDENCIES:
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_tflite (from `.symlinks/plugins/flutter_tflite/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - TensorFlowLiteC
+
+SPEC REPOS:
+  trunk:
+    - TensorFlowLiteC
+
+EXTERNAL SOURCES:
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
+  Flutter:
+    :path: Flutter
+  flutter_tflite:
+    :path: ".symlinks/plugins/flutter_tflite/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+
+SPEC CHECKSUMS:
+  camera_avfoundation: dd002b0330f4981e1bbcb46ae9b62829237459a4
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_tflite: 32de5eaf3cb5452eee0dfb66be7417d5abbb5b21
+  image_picker_ios: c560581cceedb403a6ff17f2f816d7fea1421fc1
+  TensorFlowLiteC: b3ab9e867b0b71052ca102a32a786555b330b02e
+
+PODFILE CHECKSUM: d90f8c6c1409454e83670b3d0cef8d2d7b59fb00
+
+COCOAPODS: 1.15.2

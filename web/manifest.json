@@ -1,6 +1,6 @@
 {
-    "name": "clear_path_ai",
-    "short_name": "clear_path_ai",
+    "name": "clearpath",
+    "short_name": "clearpath",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
